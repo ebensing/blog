@@ -35,7 +35,7 @@ export NODE_ENV=production
 export PORT=80
 {% endhighlight %}
 I’d recommend creating a quick shell script to automatically set these before starting your app, it’ll make your life easier. The script I created is below:
-{% highlight js %}
+{% highlight bash %}
 #!/bin/bash
 export NODE_ENV=production
 export PORT=80
