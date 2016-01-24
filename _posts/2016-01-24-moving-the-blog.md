@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moving the Blog
+title: Website mopved to Github
 ---
 
-In the process of moving my blog over.
+So, after 3 years my AWS reserved instance ran out. Considering I don't do nearly as much personal stuff as I used to, no point in buying a new one and Github is free (my favorite price point).
