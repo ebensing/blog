@@ -1,3 +1,8 @@
+---
+layout: post
+title: Express Js
+---
+
 So, I built this site using Express.js and have to say, it is a pretty cool framework.
 
 Combined with Mongodb, I was able to essentially write the entire application using only a single language, Javascript. This is a nice change from just about every other framework on the planet where you need to use a server side language (PHP, C#, python, ect.), javascript, and if you don’t have an ORM, often you are also writing SQL. Since everything was a single language, I was able to re-use code on the client side from the server side, and that’s pretty awesome.
