@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: redcarpet
+highlighter: pygments
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            rm-dash-r
-tagline:          'EJ Bensing's Blog'
+tagline:          'EJ Bensing\'s Blog'
 description:      'A Blog'
 url:              http://www.rm-dash-r.com
 baseurl:          /
