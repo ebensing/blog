@@ -1,13 +1,11 @@
-
-
 markdown: redcarpet
 highlighter: pygments
 
-permalink:        pretty
+permalink: pretty
 relative_permalinks: true
 
 title:            rm-dash-r
-tagline:          'EJ Bensing\'s Blog'
+tagline:          'EJ Bensings Blog'
 description:      'A Blog'
 url:              http://www.rm-dash-r.com
 baseurl:          /
