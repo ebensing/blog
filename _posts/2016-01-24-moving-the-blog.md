@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Moving the Blog
 ---
 
-# Moving the blog
-
-Moving to github pages
+In the process of moving my blog over.
