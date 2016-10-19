@@ -2,7 +2,6 @@ markdown: redcarpet
 highlighter: pygments
 
 permalink: pretty
-relative_permalinks: true
 
 title:            rm-dash-r
 tagline:          'EJ Bensings Blog'
